@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobonfims&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobonfims" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavobonfims" alt="gustavobonfims" /></a> </p>
-
 - 🔭 I’m currently working on [Segware](https://www.linkedin.com/company/segwaresigma)
 
 - 🌱 I’m currently working with **React/React Native**
